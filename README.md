@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xGepic
 - 👀 I’m interested in Desktop Application Development in C++.
-- 🌱 I’m currently learning C and C++ & C#.
+- 🌱 I’m currently learning C, C++ and C#.
 - 📫 How to reach me: simanek.s@gmx.at
