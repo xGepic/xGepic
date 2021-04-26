@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xGepic
-- 👀 I’m interested in Console Applications in C and C++ & GameDev in Unity.
-- 🌱 I’m currently learning C and C++.
+- 👀 I’m interested in Desktop Application Development in C++.
+- 🌱 I’m currently learning C and C++ & C#.
 - 📫 How to reach me: simanek.s@gmx.at
