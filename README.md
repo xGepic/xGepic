@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Stefan aka @xGepic
-- 👀 I’m interested in Software Development in C# at the moment.
-- 🌱 Which is why I’m currently learning C#.
-- 📫 How to reach me: simanek.s@gmx.at
+- 👀 I’m mainly interested in Software Development in C#
+- 🌱 I'm currently studying  Software Development in Austria.
+- 📫 How to reach me: 
+  - Email: simanek.s@gmx.at
