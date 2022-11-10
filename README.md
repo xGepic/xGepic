@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Stefan aka @xGepic
-- 👀 I’m mainly interested in Software Development in C#
-- 🌱 I'm currently studying  Software Development in Austria.
-- 📫 How to reach me: 
-  - Email: simanek.s@gmx.at
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
