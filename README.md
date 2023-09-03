@@ -1,4 +1,4 @@
 - 👀 I’m mainly interested in Software Development in C#
-- 🌱 I'm currently studying  Software Development in Austria.
+- 🌱 I'm currently doing my Master's Degree in Software Development in Austria.
 - 📫 How to reach me: 
--   - Email: simanek.s@gmx.at
+-   - Email: simanek.s@outlook.com
