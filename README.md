@@ -3,9 +3,6 @@
 <h3 align="center">Consultant @ Tieto Austria & Software Engineering Master Student @FHTW</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xGepic&label=Profile%20views&color=0e75b6&style=flat" alt="xGepic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xGepic&theme=" alt="xGepic" /></a> </p>
-
-
 - 📫 How to reach me **simanek.s@outlook.com**
 
 <div> <a href="https://www.linkedin.com/in/Stefan Simanek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
