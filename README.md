@@ -38,9 +38,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGepic&theme=vue-dark&bg_color=00000000&hide_border=true&include_all_commits=true&layout=compact&langs_count=6&exclude_repo=precompiled-binaries,.config,dotfiles&card_width=700" /> 
   </a>
 </p>
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=xGepic&theme=vue-dark&background=0d1117&hide_border=true)<br/> -->
-
  
-
 <!-- ![](https://github-profile-trophy.vercel.app/?username=xGepic&theme=oldie&no-frame=true&no-bg=true&margin-w=4) --> 
