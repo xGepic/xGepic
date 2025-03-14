@@ -29,14 +29,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=xGepic&theme=vue-dark&hide_border=true&include_all_commits=true&bg_color=00000000&hide=issues&show_icons=true&count_private=true&card_width=700" /> 
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGepic&theme=vue-dark&bg_color=00000000&hide_border=true&include_all_commits=true&layout=compact&langs_count=6&exclude_repo=precompiled-binaries,.config,dotfiles&card_width=700" /> 
   </a>
 </p>
- 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=xGepic&theme=oldie&no-frame=true&no-bg=true&margin-w=4) --> 
