@@ -22,9 +22,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGepic&theme=vue-dark&bg_color=00000000&hide_border=true&include_all_commits=true&layout=compact&langs_count=6&exclude_repo=precompiled-binaries,.config,dotfiles&card_width=700" /> 
-  </a>
-</p>
